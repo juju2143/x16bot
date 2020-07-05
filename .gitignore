@@ -1,0 +1,4 @@
+node_modules
+files/*
+assets/*
+config.json
